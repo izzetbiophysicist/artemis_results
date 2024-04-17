@@ -20,3 +20,4 @@
 
 https://doi.org/10.1016/j.jaci.2015.03.005 - functional assay of the isoforms
 
+![Alt Text](https://github.com/izzetbiophysicist/artemis_results/blob/main/function.png)
