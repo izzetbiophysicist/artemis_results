@@ -16,8 +16,8 @@
 </p>
 
 
-# Shorter isoforms probably retain residual functionality
+# Do shorter isoforms retain residual function?
 
-https://doi.org/10.1016/j.jaci.2015.03.005 - functional assay of the isoforms
+https://doi.org/10.1016/j.jaci.2015.03.005 - isoforms functional assay 
 
 ![Alt Text](https://github.com/izzetbiophysicist/artemis_results/blob/main/function.png)
