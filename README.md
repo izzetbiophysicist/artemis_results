@@ -26,6 +26,6 @@ https://doi.org/10.1016/j.jaci.2015.03.005 - isoforms functional assay
 
 ![Alt Text](https://github.com/izzetbiophysicist/artemis_results/blob/main/function.png)
 
-# AlphaMissense predictions of all mutations of the cannonical transcript
+# AlphaMissense predictions of all mutations of the canonical transcript
 Clinvar pathogenic and likely pathogenic missense mutations are marked in green
 ![Alt Text](https://github.com/izzetbiophysicist/artemis_results/blob/main/heat_map.png)
