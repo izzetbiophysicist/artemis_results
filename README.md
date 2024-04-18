@@ -1,7 +1,7 @@
 # artemis_results
 #Results of the artemis variant
 
-This analysis explores variants of the protein artemis, focusing on its different isoforms and their potential functional implications. The key question addressed is whether the shorter isoforms retain residual function - even though they lack part of the active site. This inquiry is supported by a functional assay [https://doi.org/10.1016/j.jaci.2015.03.005], which likely provides insights into the functional capabilities of these isoforms.
+This analysis explores variants of the protein artemis, focusing on its different isoforms. The key question addressed is whether the shorter isoforms retain residual function - even though they lack part of the active site. This inquiry is supported by a functional assay [https://doi.org/10.1016/j.jaci.2015.03.005], which likely provides insights into the functional capabilities of these isoforms.
 
 Furthermore, the analysis includes AlphaMissense predictions of all mutations of the canonical transcript. Notably, Clinvar pathogenic and likely pathogenic missense mutations are located mostly along exons 1 through 4.
 
